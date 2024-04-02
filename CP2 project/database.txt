@@ -1,6 +1,0 @@
-1 Gomer Gaufo 20  120
-2 Test  Test  12  122
-3 Test  Test  30  70
-4 Test  Test  14  90
-5 Test  Test  19  120
-6 Test  Test  40  20
